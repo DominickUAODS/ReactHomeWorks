@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1,
+		"imgSrc": "./assets/p445671491.png",
+		"altName": "Зарядная станция Alphaess BlackBee 2000+ / 2580 Вт / 2203 Вт⋅ч / Li-ion (BLACKBEE 2000+)",
+		"name": "Зарядная станция Alphaess BlackBee 2000+ / 2580 Вт / 2203 Вт⋅ч / Li-ion (BLACKBEE 2000+)",
+		"originalPrice": "57999",
+		"discountedPrice": "45999",
+		"link": ""
+	},
+	{
+		"id": 2,
+		"imgSrc": "./assets/p356294160.png",
+		"altName": "Процессор Intel Core i9-13900KF 3.0GHz/36MB (BX8071513900KF) s1700 BOX",
+		"name": "Процессор Intel Core i9-13900KF 3.0GHz/36MB (BX8071513900KF) s1700 BOX",
+		"originalPrice": "27266",
+		"discountedPrice": "21289",
+		"link": ""
+	},
+	{
+		"id": 3,
+		"imgSrc": "./assets/p369489339.png",
+		"altName": "Генератор бензиновый Rato R3000-L 2.7/3 кВт AVR",
+		"name": "Генератор бензиновый Rato R3000-L 2.7/3 кВт AVR",
+		"originalPrice": "18753",
+		"discountedPrice": "13500",
+		"link": ""
+	},
+	{
+		"id": 4,
+		"imgSrc": "./assets/p32815055.png",
+		"altName": "Блендер Bosch MSM2650B",
+		"name": "Блендер Bosch MSM2650B",
+		"originalPrice": "2329",
+		"discountedPrice": "1799",
+		"link": ""
+	}
+]

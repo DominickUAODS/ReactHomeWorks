@@ -1,0 +1,83 @@
+.cardCntr {
+	display: flex;
+	flex-direction: column;
+	border: 1px solid #ccc;
+	border-radius: 8px;
+	padding: 16px;
+	margin: 10px;
+	width: 60%;
+	background-color: #fff;
+}
+
+.prodName {
+	font-size: 16px;
+	color: #333;
+	text-decoration: none;
+	margin: 10px 16px;
+}
+
+.cardFooter {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-top: 16px;
+	margin-left: 40%;
+}
+
+.quantity {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 10px;
+}
+
+.minusBtn, .plusBtn {
+	padding: 6px 12px;
+	font-size: 18px;
+}
+
+.priceContainer {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+}
+
+.originalPrice {
+	text-decoration: line-through;
+	color: #888;
+	margin-right: 8px;
+}
+
+.originalPricewoDisc {
+	font-size: 22px;
+	color: #000;
+	font-weight: bold;
+	text-decoration: none;
+	margin-right: 8px;
+}
+
+.discountedPrice {
+	font-size: 22px;
+	font-weight: bold;
+	color: #e60000;
+}
+
+.inputQuantity {
+	width: 60px;
+	text-align: center;
+	font-size: 18px;
+}
+
+.mainBody {
+	display: flex;
+	flex-direction: row;
+}
+
+.stock {
+	display: none;
+}
+
+.outOfStock {
+	color: red;
+	font-weight: bold;
+}
