@@ -1,0 +1,47 @@
+[
+	{
+		"id": "store1",
+		"deliveryId": "PickupStore",
+		"name": "Store 1"
+	},
+	{
+		"id": "store2",
+		"deliveryId": "PickupStore",
+		"name": "Store 2"
+	},
+	{
+		"id": "store3",
+		"deliveryId": "PickupStore",
+		"name": "Store 3"
+	},
+	{
+		"id": "meest1",
+		"deliveryId": "meestPickup",
+		"name": "Meest Отделение 1"
+	},
+	{
+		"id": "meest2",
+		"deliveryId": "meestPickup",
+		"name": "Meest Отделение 2"
+	},
+	{
+		"id": "ukr1",
+		"deliveryId": "ukrPostPickup",
+		"name": "Укрпочта Отделение 1"
+	},
+	{
+		"id": "ukr2",
+		"deliveryId": "ukrPostPickup",
+		"name": "Укрпочта Отделение 2"
+	},
+	{
+		"id": "np1",
+		"deliveryId": "newPostPickup",
+		"name": "Новая почта Отделение 1"
+	},
+	{
+		"id": "np2",
+		"deliveryId": "newPostPickup",
+		"name": "Новая почта Отделение 2"
+	}
+]

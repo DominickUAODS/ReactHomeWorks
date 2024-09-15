@@ -1,0 +1,32 @@
+[
+	{
+		"id": "PickupStore",
+		"name": "Самовывоз из наших магазинов",
+		"price": "Бесплатно"
+	},
+	{
+		"id": "Courier",
+		"name": "Курьер по вашему адресу",
+		"price": "100 грн"
+	},
+	{
+		"id": "meestPickup",
+		"name": "Самовывоз из Meest пошта",
+		"price": "60 грн"
+	},
+	{
+		"id": "ukrPostPickup",
+		"name": "Самовывоз из Укрпошты",
+		"price": "55 грн"
+	},
+	{
+		"id": "newPostPickup",
+		"name": "Самовывоз из Новой почты",
+		"price": "65 грн"
+	},
+	{
+		"id": "newPostCourier",
+		"name": "Курьером Новой Почты",
+		"price": "80 грн"
+	}
+]
