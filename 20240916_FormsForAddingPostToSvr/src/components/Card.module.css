@@ -1,0 +1,125 @@
+.cardCntr {
+	display: grid;
+	grid-template-rows: auto 1fr auto;
+	border: 1px solid #ccc;
+	border-radius: 8px;
+	padding: 16px;
+	margin: 10px;
+	width: 280px;
+	height: 350px;
+	background-color: #fff;
+	position: relative;
+	justify-content: space-between;
+}
+
+.mainBody {
+	text-align: left;
+}
+
+.imgBtnRight {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.labels {
+	position: absolute;
+	top: 8px;
+	left: 8px;
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+}
+
+.discountLabel {
+	background-color: red;
+	color: white;
+	padding: 4px 8px;
+	border-radius: 4px;
+	font-size: 12px;
+}
+
+.newLabel {
+	background-color: purple;
+	color: white;
+	padding: 4px 8px;
+	border-radius: 4px;
+	font-size: 12px;
+}
+
+.img {
+	width: 100%;
+	height: auto;
+	object-fit: cover;
+}
+
+.prodName {
+	font-size: 16px;
+	color: #333;
+	text-decoration: none;
+	margin: 10px 0;
+	display: block;
+}
+
+.priceBuy {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: flex-end;
+	margin-top: auto;
+}
+
+.priceContainer {
+	display: flex;
+	flex-direction: column;
+	align-content: flex-start;
+}
+
+.originalPrice {
+	text-decoration: line-through;
+	color: #888;
+}
+
+.originalPricewoDisc {
+	font-size: 22px;
+	font-weight: bold;
+	color: #000;
+}
+
+.discountedPrice {
+	font-size: 22px;
+	font-weight: bold;
+	color: #e60000;
+}
+
+.favBtn,
+.compareBtn,
+.cartBtn {
+	background: none;
+	border: none;
+	cursor: pointer;
+	font-size: 20px;
+}
+
+.btnRight {
+	display: flex;
+	flex-direction: column;
+	margin-right: 5px;
+}
+
+.reviews {
+	display: flex;
+	align-items: flex-end;
+	text-align: center;
+	margin-top: auto;
+}
+
+.rating {
+	font-size: 16px;
+	color: gold;
+}
+
+.noReviews {
+	font-size: 14px;
+	color: #888;
+}
